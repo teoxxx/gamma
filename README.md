@@ -1,2 +1,2 @@
 # gamma
-A program to calculate gemma ray emission from an astrophysical environment.
+A program to calculate gamma ray emission from an astrophysical environment. Written by Theodoros Smponias in 2013.
